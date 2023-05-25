@@ -2,7 +2,7 @@
 
 Website of the event: https://indico.ictp.it/event/10181/overview
 
-This is a tutorial for calculations based on density-functional theory (DFT) using the open-source [Quantum ESPRESSO distribution](https://www.quantum-espresso.org/) (QE) [1,2], Yambo, and others. 
+This is a tutorial for calculations based on density-functional theory (DFT) using the open-source [Quantum ESPRESSO distribution](https://www.quantum-espresso.org/) [1], Yambo [2], Siesta [3], deMon2k [4], TBPW, and others. 
 
 In each subfolder you will find a file README.md with the basic instructions on how to run the exercises. A more detailed description of the content of the exercises is given in the PDF file containing the slides that the lecturers will present during the hands-on sessions. All the pseudopotential files needed to run the exercises can be found in the ```files``` folder.
 
@@ -25,5 +25,7 @@ For troubleshooting see this page: https://quantum-mobile.readthedocs.io/en/late
  - [Day5](Day5/README.md): Phonons
 
 ## Bibliography
-1. P. Giannozzi, S. Baroni, N. Bonini, M. Calandra, R. Car, C. Cavazzoni, D. Ceresoli, G. L. Chiarotti, M. Cococcioni, I. Dabo, et al., Journal of physics: Condensed matter 21, 395502 (2009).
-2. P. Giannozzi, O. Andreussi, T. Brumme, O. Bunau, M. B. Nardelli, M. Calandra, R. Car, C. Cavazzoni, D. Ceresoli, M. Cococcioni, et al., Journal of Physics: Condensed Matter 29, 465901 (2017).
+1. https://www.quantum-espresso.org/
+2. https://www.yambo-code.eu/
+3. https://departments.icmab.es/leem/siesta/
+4. http://www.demon-software.com/public_html/index.html 
