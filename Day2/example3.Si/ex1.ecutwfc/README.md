@@ -9,3 +9,11 @@
 2. To run the example, execute:
 
        bash ./scan_ecut.sh
+       
+3. To gather the energies, execute:
+
+       bash ./gather_data.sh
+       
+4. To plot the data, run:
+	
+       python3 ./plot_etot_ecut.py

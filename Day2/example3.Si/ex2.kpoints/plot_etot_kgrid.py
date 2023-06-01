@@ -21,7 +21,7 @@ axs[0].yaxis.set_major_formatter('{: .3f}'.format)
 
 # Set labels for subplots
 axs[0].set_ylabel('Total energy (Ry)', size =16)
-axs[1].set_ylabel('Forward Difference (Ry)', size =1 6)
+axs[1].set_ylabel('Forward Difference (Ry)', size =16)
 axs[1].set_xlabel('Kgrid', size=16)
 
 # Plot total energy

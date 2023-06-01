@@ -6,6 +6,8 @@
 
 1. Run `scan_alat.sh` 
 
-2. python3 `plot_alat.py`
+2. Run `gather_data_alat.sh`
 
-3. python3 `fit_volume.py`
+3. python3 `plot_alat.py`
+
+4. python3 `fit_volume.py`
