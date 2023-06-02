@@ -1,5 +1,5 @@
 # PURPOSE OF THE EXERCISE:
-## convergence test for k-points (K_POINTS) via PWTK script
+## convergence test for k-points (K_POINTS)
 ---------------------------------------------------------
 
 **Steps to perform:**

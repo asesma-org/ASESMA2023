@@ -7,7 +7,7 @@ convergence tests for the cutoff energy (`ecutwfc`) and k-points.
 
 Convergence tests are typically performed by making a series of
 calculations with aid of shell-scripts, e.g., see
-the shell-script: `ex1.ecutwfc.classic/ecutwfc.sh`
+the shell-script: `ex1.ecutwfc/scan_ecut.sh`
 
 In this tutorial we are going to use shell scripts to perform a series of calculations
 

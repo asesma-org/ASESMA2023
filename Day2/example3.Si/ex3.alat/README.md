@@ -1,5 +1,5 @@
 # PURPOSE OF THE EXERCISE:
-## search of A-lattice parameter (celldm(1)) via PWTK script
+## search of A-lattice parameter (celldm(1)) 
 ----------------------------------------------------------
 
 **Steps to perform:**

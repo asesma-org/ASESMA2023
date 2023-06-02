@@ -23,7 +23,7 @@
 **Exercise 3:** FCC Si: basic `pw.x` convergence tests + 
                 extracting structural information (Bulk modulus fitting)
 
-    cd example2.graphene/
+    cd example3.Si/
     
 ------------------------------------------------------------------------
 
