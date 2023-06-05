@@ -1,4 +1,3 @@
 # Exercises
 
- - [Project 1](project1/README.md): Describe the 1st project
- - [Project 2](project2/README.md): Describe the 2nd project
+ - [Project 1](project1/README.md): Testing the Transferability of Integrals in Multiplet-Sum (MS) Density-Functional Theory (DFT) (Mark Casida)
