@@ -6,7 +6,6 @@
 - Editing Files
 - Pipe and redirect
 - Using Alias
-- Activating aliases
 
 ### Xcrysden
 A crystalline and molecular structure visualisation program
