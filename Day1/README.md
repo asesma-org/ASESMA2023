@@ -19,4 +19,3 @@ A graph plotting tool
 - Creating simple plots
 - Adjusting labels, legends, appearance, etc.,
 - Saving graph projects and final plots as images
-- Curve fitting
