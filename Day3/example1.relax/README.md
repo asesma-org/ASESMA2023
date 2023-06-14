@@ -40,6 +40,6 @@ steps to perform are analogous to those described above, i.e.:
 
 You can visualize the evolving structure as:
 
-        xcrysden --pwo pw.graphane.relax.out
+        xcrysden --pwo pw.graphene3x3-O.relax.out
 
 
